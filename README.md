@@ -25,7 +25,7 @@ This guide will walk you through the process of forking a repository containing 
 
 ### 4. Editing Files
 - Since you have already hosted your website via GitHub pages, let's edit it and view it live.
-- For this open the `/index.html` file and edit the text **Github Pages** in line number 96 to **Github Page by [Your Name]**.
+- For this open the `/index.html` file and edit the text **Github Pages** in line number 96 to **Github Page by [Ajmal m.j]**.
 - Once you have edited the file, click on the commit changes button on the top right of the editor to commit your changes.
 - Enter a commit message and click commit changes once again to confirm your changes.
 - Now, within a few minutes, your edit will be visible on the website.
